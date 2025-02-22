@@ -42,12 +42,17 @@ Tip: Opening several terminal windows to run multiple instances of the program h
   
 - Then, you will see a menu with 5 different options. Below, we explain each option in detail.
 
-  Menu : 
-1. Send message
-2. Query active peers
-3. Connect to active peers
-4. View chat history
- 0. Quit
+Menu :
+  
+Option 1 : Send message
+
+Option 2 : Query active peers
+
+Option 3 : Connect to active peers
+
+Option 4 : View chat history
+
+Option 0 : Quit
 
 ### ✉️Send Message
 
@@ -57,7 +62,8 @@ Tip: Opening several terminal windows to run multiple instances of the program h
 
 - Your message to the receipent looks in this format :
 
-  <IP ADDRESS:PORT> <team name> <your message>
+
+     `<IP ADDRESS:PORT> <team name> <your message>`
 
 - Here our client by default depends on ephemeral port, hence our client port will be some random number which will be printed in continuition to the format mentioned above.
 
