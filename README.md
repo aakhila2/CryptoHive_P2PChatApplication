@@ -21,7 +21,7 @@ Peer-to-Peer (P2P) Chat Application enables simultaneous sending and receiving o
 
 - Maintains a list of active and previously connected peers.
 
-- Query connected peers.
+- Query active peers.
 
 - View complete chat history for each node.
 
