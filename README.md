@@ -97,8 +97,8 @@ Option 0 : Quit
 
 ## Bonus Implementation
 
-1. Connected with other devices.
-2. Display of the chat of each peer is available through option 4.
+1. Connected with other devices. (screenshot of implementation attached)
+2. Display of the chat of each peer is available through option 4. (screenshot of implementation attached)
 3. Implemented a functionality which reconnects with all the previously connected peers. (screenshot of implementation attached)
 
 All the described operations are demonstarted and the corresponding screenshots are available in the **Screenshots** floder.
