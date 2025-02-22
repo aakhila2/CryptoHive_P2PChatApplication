@@ -88,3 +88,7 @@ Tip: Opening several terminal windows to run multiple instances of the program h
 - When **0** is chosen in peer1's terminal, then "notifying all peers before exitting" will be displayed in peer1's terminal and an exit message will be sent to all the connected peers.
 
 - All the connected peers will receive the message and disconnecting with peer1 message will be shown in their terminals.
+
+
+
+All these operations are demonstarted and the corresponding screenshots are available in the **Screenshots** floder.
