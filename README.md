@@ -47,7 +47,7 @@ Tip: Opening several terminal windows to run multiple instances of the program h
 2. Query active peers
 3. Connect to active peers
 4. View chat history
-0. Quit
+ 0. Quit
 
 ### ✉️Send Message
 
