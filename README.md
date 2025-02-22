@@ -69,7 +69,7 @@ Option 0 : Quit
 
 - From that received message, we will extract sender's IP address, port number, message, team name.
 
-- When a peer, say **peer1** sends a message to another peer, say **peer2** then **peer2 will recognize peer1 as an active peer and stores its IP address and port number in query active peers**, but peer1 doesn't recognize peer2 as an active peer until it receives a message from peer2.
+- When a peer, say **peer1** sends a message to another peer, say **peer2** then **peer2 will recognize peer1 as an active peer and stores its IP address and port number in query active peers**, but peer1 doesn't recognize peer2 as an active peer until it receives a message from peer2 (until connection established).
 
 - Another option available after choosing **1** is **exit**. When an "exit" message is sent by peer1 to peer2, then terminal 2 will show that peer1 got disconnected and peer1 gets removed from query active list of peer2. 
 
