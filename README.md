@@ -95,6 +95,10 @@ Option 0 : Quit
 
 - All the connected peers will receive the message and disconnecting with peer1 message will be shown in their terminals.
 
+## Bonus Implementation
 
+1. Connected with other devices.
+2. Display of the chat of each peer is available through option 4.
+3. Implemented a functionality which reconnects with all the previously connected peers. (screenshot of implementation attached)
 
-All these operations are demonstarted and the corresponding screenshots are available in the **Screenshots** floder.
+All the described operations are demonstarted and the corresponding screenshots are available in the **Screenshots** floder.
